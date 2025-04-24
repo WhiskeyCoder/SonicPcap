@@ -127,11 +127,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
-
-- Originally created by @TheCyberViking
 - Thanks to wbwarnerb for help with the base audio extraction code
 - Based on tools used for network traffic analysis and forensics
-
 ---
 
 *Disclaimer: This tool should only be used on network traffic that you have permission to analyze. Capturing and analyzing network traffic without proper authorization may be illegal in your jurisdiction.*
